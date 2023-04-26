@@ -3,4 +3,4 @@ Source code of PAMI
 
 ## Introduction  
 
-![](figures/pipeline.png#pic_center=100x)
+![](figures/pipeline.png#pic_center=50x)
