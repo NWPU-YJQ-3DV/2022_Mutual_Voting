@@ -23,7 +23,7 @@ Please refer to [Compiling on Windows](https://github.com/NWPU-YJQ-3DV/2022_Mutu
 Please refer to [Compiling on Linux](https://github.com/NWPU-YJQ-3DV/2022_Mutual_Voting/blob/main/Linux/README.md) for details.
 
 ## Data organization
-Please refer to [Demo](https://github.com/NWPU-YJQ-3DV/2022_Mutual_Voting/blob/main/Demo/README.md) for details.
+Please refer to [Demo](https://github.com/NWPU-YJQ-3DV/2022_Mutual_Voting/blob/main/demo/README.md) for details.
 
 ## Usage:
 * `--help` list all usages.
