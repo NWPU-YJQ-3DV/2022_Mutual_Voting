@@ -30,3 +30,10 @@ Please refer to [Compiling on Linux](https://github.com/NWPU-YJQ-3DV/2022_Mutual
 * `--input_path` input data path. 
 ### Optional args:
 * `--no_logs` forbid generation of log files.
+
+## Citation
+If you find this code useful for your work or use it in your project, please consider citing:
+
+```shell
+
+```
