@@ -23,3 +23,10 @@ Please refer to [Compiling on Windows](https://github.com/NWPU-YJQ-3DV/2022_Mutu
 Please refer to [Compiling on Linux](https://github.com/NWPU-YJQ-3DV/2022_Mutual_Voting/blob/main/Linux/README.md) for details.
 
 ## Usage:
+* `--help` list all usages.
+* `--demo` run the demo.
+### Required args:
+* `--output_path` output path for saving results. 
+* `--input_path` input data path. 
+### Optional args:
+* `--no_logs` forbid generation of log files.
