@@ -3,7 +3,7 @@ Source code of PAMI paper
 
 ## Introduction  
 
-![](figures/pipeline.png=25%x)
+![pipeline](figures/pipeline.png =25%x)
 
 ## Repository layout  
 The repository contains a set of subfolders:  
