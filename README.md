@@ -1,5 +1,5 @@
 # Mutual-Voting-for-Ranking-3D-Correspondences
-Source code of PAMI  
+Source code of PAMI paper
 
 ## Introduction  
 
