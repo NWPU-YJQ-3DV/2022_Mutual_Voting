@@ -29,9 +29,10 @@ Please refer to [Demo](https://github.com/NWPU-YJQ-3DV/2022_Mutual_Voting/blob/m
 * `--help` list all usages.
 * `--demo` run the demo.
 ### Required args:
-* `--output_path` output path for saving results. 
-* `--input_path` input data path. 
+* `--input_path` input data path.
+* `--dataset_name` dataset name. 
 ### Optional args:
+* `--RANSAC_iters`number of RANSAC iterations.
 * `--no_logs` forbid generation of log files.
 
 ## Citation
