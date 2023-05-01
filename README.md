@@ -27,13 +27,14 @@ Please refer to [Demo](https://github.com/NWPU-YJQ-3DV/2022_Mutual_Voting/blob/m
 
 ## Usage:
 * `--help` list all usages.
-* `--demo` run the demo.
 ### Required args:
 * `--input_path` input data path.
+* `--output_path` output data path.
 * `--dataset_name` dataset name. 
+* `--RANSAC_iters` number of ransac iterations.
 ### Optional args:
-* `--RANSAC_iters`number of RANSAC iterations.
 * `--no_logs` forbid generation of log files.
+* `--corr_index_mode` input correspondence file contains indices instead of coordinates.
 
 ## Citation
 If you find this code useful for your work or use it in your project, please consider citing:
