@@ -6,3 +6,7 @@ pair_folder/
 |_ correspondence file (.txt)
 |_ ground truth transformation matrix (.txt)
 ```
+Run the demo:
+```
+./MV --input_folder demo --output_folder demo/result --dataset_name 3dmatch --RANSAC_iters 5000
+```
