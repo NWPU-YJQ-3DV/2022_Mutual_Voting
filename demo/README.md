@@ -8,5 +8,5 @@ pair_folder/
 ```
 Run the demo:
 ```
-./MV --input_folder demo --output_folder demo/result --dataset_name 3dmatch --RANSAC_iters 5000
+./MV --input_path demo --output_path demo/result --dataset_name 3dmatch --RANSAC_iters 5000
 ```
