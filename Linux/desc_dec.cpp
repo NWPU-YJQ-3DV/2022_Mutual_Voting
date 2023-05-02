@@ -31,8 +31,8 @@
 void SHOT_compute(pcl::PointCloud<pcl::PointXYZ>::Ptr cloud, vector<int> indices, float sup_radius, vector<vector<float>>&features, vector<LRF>&LRFs)
 {
 	int i, j;
-	//pcl::PointIndicesPtr Idx = boost::shared_ptr <pcl::PointIndices>(new pcl::PointIndices());
-    pcl::PointIndicesPtr Idx = std::make_shared<pcl::PointIndices>();
+	pcl::PointIndicesPtr Idx = boost::shared_ptr <pcl::PointIndices>(new pcl::PointIndices());
+    //pcl::PointIndicesPtr Idx = std::make_shared<pcl::PointIndices>();
     for (j = 0; j<indices.size(); j++)
 		Idx->indices.push_back(indices[j]);
 	
