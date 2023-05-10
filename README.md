@@ -1,5 +1,5 @@
 # Mutual-Voting-for-Ranking-3D-Correspondences
-Source code of PAMI paper
+Source code of [PAMI 2023 paper](https://ieeexplore.ieee.org/abstract/document/10105460) 
 
 ## Introduction  
 
@@ -40,5 +40,11 @@ Please refer to [Demo](https://github.com/NWPU-YJQ-3DV/2022_Mutual_Voting/blob/m
 If you find this code useful for your work or use it in your project, please consider citing:
 
 ```shell
-
+@article{yang2023mutual,
+  title={Mutual Voting for Ranking 3D Correspondences},
+  author={Yang, Jiaqi and Zhang, Xiyu and Fan, Shichao and Ren, Chunlin and Zhang, Yanning},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2023},
+  publisher={IEEE}
+}
 ```
